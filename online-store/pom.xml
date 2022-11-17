@@ -26,7 +26,7 @@
         <repository-module.version>1.0-SNAPSHOT</repository-module.version>
         <service-module.version>1.0-SNAPSHOT</service-module.version>
         <bootstrap.version>4.4.1-1</bootstrap.version>
-        <jquery.version>3.4.1</jquery.version>
+        <jquery.version>3.6.1</jquery.version>
     </properties>
     <dependencies>
         <dependency>
